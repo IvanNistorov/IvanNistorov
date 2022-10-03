@@ -1,5 +1,4 @@
 - 👋 Hi,I’m Ivan Nistorov 
 - 🌱 I’m currently learning Computer technologies in the engineering industry at university 
-- 🖥️ My favourite programming language is Python 
 - 👀 I’m interested in programming,django web applications, and IOS development 
 - 📫 How to reach me: nistorovivan02@gmail.com
