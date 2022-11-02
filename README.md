@@ -1,4 +1,4 @@
 - 👋 Hi,I’m Ivan Nistorov 
 - 🌱 I’m currently learning Computer technologies in the engineering industry at university 
-- 👀 I’m interested in Python,django web applications, and IOS development 
+- 👀 I’m interested in Python & web development
 - 📫 How to reach me: nistorovivan02@gmail.com
